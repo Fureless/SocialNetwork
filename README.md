@@ -12,14 +12,25 @@ Network - социальная сеть, основная цель которо�
 ## Архитектура проекта
 Данный проект создавался на двух платформах: Web и Android.
 В данном репозитории(cмотреть ветку dev) хранится Web-приложение, разработанное на React студентом группы Потыканенко Артёмом.
-Adroid-приложение разрабатывал Свиридов Иван.
+Android-приложение разрабатывал Свиридов Иван.
 
 https://ru.reactjs.org/docs/create-a-new-react-app.html
 https://developer.mozilla.org/ru/docs/Web/JavaScript
 ***
 
 ## Скриншоты
-
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.28.02.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.28.51.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.29.02.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.30.17.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.30.26.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.30.38.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.30.46.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.30.55.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.31.18.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.31.30.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.31.39.png
+https://github.com/Fureless/SocialNetwork/blob/main/Screenshots/Screen%20Shot%202021-12-15%20at%2019.31.50.png
 ***
 
 ## Видео
